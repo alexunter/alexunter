@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alexunter/alexunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	Licenciado em Informática pela Fundação Municipal Faculdade da Cidade de União da Vitória (FACE)
+
+ Licenciado em Ciências e Matemática, Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória PR 
+
+	Especializado em Ciências da Computação - Concentração Em Segurança em Redes e Sistema de Banco de Dados Distribuídos
+
+ Especializado em tecnologia e Educação a Distância. 	UNC -Porto União SC
+ Especializado em Coordeção Pedagógica pela UFPR
+
+	
