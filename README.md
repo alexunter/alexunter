@@ -1,7 +1,7 @@
 ### Olá Sou o Professor Alexandre Unterstell 🕹️👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alexunter&show_icons=true&theme=dark"/>
+
 <br> Atualmente trabalho no Núcleo Regional de Educação de União da Vitória PR
      Também Leciono no Centro Univercitário DeUnião da Vitória e No Colégio Técnico de União da Vitória
      Areas que gosto de lecionar e atuar são redes de comunicação e liguagens front-end!!<bR>
@@ -24,3 +24,4 @@
 <br>Especializado em Ciências da Computação - Concentração Em Segurança em Redes e Sistema de Banco de Dados Distribuídos
 <br>Especializado em tecnologia e Educação a Distância. UNC -Porto União SC
 <br>Especializado em Coordenação Pedagógica pela UFPR
+	<br><img src="https://github-readme-stats.vercel.app/api?username=alexunter&show_icons=true&theme=dark"/>
