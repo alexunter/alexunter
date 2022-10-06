@@ -1,4 +1,4 @@
-######### 👋:bearded_person::man_teacher: <strong>Olá Sou o Professor Alexandre Unterstell</strong>:computer: 🕹️ :blush: ######### <br/>
+######### 👋:bearded_person::man_teacher: <strong>Olá Sou o Professor Alexandre Unterstell</strong>:computer: 🕹️:family_man_girl_boy: :blush: ######### <br/>
 Atualmente trabalho no Núcleo Regional de Educação de União da Vitória PR como técnico pedagógico do Programa Edutech <br/>
 Também Leciono no Centro Univercitário DeUnião da Vitória e No Colégio Técnico de União da Vitória <br/>
 Areas que gosto de lecionar e atuar são redes de comunicação e liguagens front-end!!<bR>
