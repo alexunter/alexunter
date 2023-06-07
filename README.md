@@ -4,11 +4,12 @@ Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Col�
 Áreas que gosto de lecionar e atuar são *inteligência artificial*, *redes de comunicação* e *liguagens front-end!*<bR>
 <img src="anima.gif" alt="My cool logo"/>
 	<br/>Linguagens:<br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+	
+
+          
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-	
+	<br/>Redes Sociais:<br>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alexunter) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://br.linkedin.com/pub/alexandre-unterstell/34/575/b88/) 
