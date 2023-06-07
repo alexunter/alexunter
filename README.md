@@ -6,9 +6,10 @@ Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Col�
 	<br/>Linguagens:<br>
 	
 
-          
+<div style="background:white">          
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+	</div>
 	<br/>Redes Sociais:<br>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alexunter) 
