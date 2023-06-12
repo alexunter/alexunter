@@ -4,13 +4,10 @@ Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Col�
 Áreas que gosto de lecionar e atuar são *inteligência artificial*, *redes de comunicação* e *liguagens front-end!*<bR>
 <img src="anima.gif" alt="My cool logo"/>
 	<br/>**Linguagens e interesses:**
-<div >  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
-</div>
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+
+
 
 **Redes sociais:**
 
@@ -28,4 +25,14 @@ Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Col�
 <br>Especializado em Ciências da Computação - Concentração Em Segurança em Redes e Sistema de Banco de Dados Distribuídos
 <br>Especializado em tecnologia e Educação a Distância. UNC -Porto União SC
 <br>Especializado em Coordenação Pedagógica pela UFPR
-	<br><img src="https://github-readme-stats.vercel.app/api?username=alexunter&show_icons=true&theme=dark"/>
+	
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=alexunter&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexunter&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexunter&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=alexunter&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
