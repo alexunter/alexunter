@@ -3,15 +3,16 @@ Atualmente trabalho no Núcleo Regional de Educação de União da Vitória PR c
 Também Leciono no Centro Univercitário de União da Vitória (UNIUV) e no Colégio Técnico de União da Vitória (Coltec)<br/>
 Áreas que gosto de lecionar e atuar são *inteligência artificial*, *redes de comunicação* e *liguagens front-end!*<bR>
 <img src="anima.gif" alt="My cool logo"/>
-	<br/>Linguagens:<br>
+	<br/>**Linguagens e interesses:**
 <div >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />
 </div>
 
-Redes sociais:
+**Redes sociais:**
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/alexunter) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](http://br.linkedin.com/pub/alexandre-unterstell/34/575/b88/) 
@@ -21,7 +22,7 @@ Redes sociais:
 [<img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5542984052237&text=Ol%C3%A1!%200)
 	
 <hr>
-<br/>Formação:	
+**Formação:**	
 <br>Licenciado em Informática pela Fundação Municipal Faculdade da Cidade de União da Vitória (FACE)
 <br>Licenciado em Ciências e Matemática, Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória PR 
 <br>Especializado em Ciências da Computação - Concentração Em Segurança em Redes e Sistema de Banco de Dados Distribuídos
